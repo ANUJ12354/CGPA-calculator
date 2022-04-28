@@ -20,7 +20,7 @@ int main()
         printf("Your CGPA is %0.2f and you are failed this semester",cgpa);
     }
     else{
-        printf("Your CGPA is %0.2f and you are passed\nCONGRATS! PARTY HARD",cgpa);
+        printf("Your CGPA is %0.2f and you are passed",cgpa);
     }
     return 0;
 }
